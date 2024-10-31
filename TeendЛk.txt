@@ -1,0 +1,13 @@
+A kosár oldalon ha kis kosárból törlöm a terméket ott marad a végösszeg. Azt kéne 
+valahogy eltüntetni onnan.
+
+
+User regisztráláskor egy email megerősítés egy hatjegyű számmal pl.
+
+
+Termékfelvitelnél a slug mezőt be kell vinni majd.(kész, viszont a vendoroknál is ugyanez kell)
+
+Süti gomb
+
+A vendor vagy a reklámozói oldal headerben az ajax termék keresés még nem működik
+

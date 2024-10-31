@@ -1,0 +1,1 @@
+<h1 style="color: red;">A weboldal még nem üzemel. Rendelés leadás a beüzemelés után lehetséges!</h1>

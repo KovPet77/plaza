@@ -1,0 +1,1 @@
+<h1 style="color: red;">A weboldal még nem üzemel, regisztrálni az üzembe helyezés után lehet</h1>

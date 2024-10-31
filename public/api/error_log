@@ -1,0 +1,94 @@
+[15-Jul-2024 14:26:07 UTC] PHP Warning:  include_once(api.php): Failed to open stream: No such file or directory in /home/pomazpla/public_html/public/api/index.php on line 21
+[15-Jul-2024 14:26:07 UTC] PHP Warning:  include_once(): Failed opening 'api.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pomazpla/public_html/public/api/index.php on line 21
+[15-Jul-2024 14:26:07 UTC] PHP Fatal error:  Uncaught Error: Class "API" not found in /home/pomazpla/public_html/public/api/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/pomazpla/public_html/public/api/index.php on line 25
+[15-Jul-2024 14:26:08 UTC] PHP Warning:  include_once(api.php): Failed to open stream: No such file or directory in /home/pomazpla/public_html/public/api/index.php on line 21
+[15-Jul-2024 14:26:08 UTC] PHP Warning:  include_once(): Failed opening 'api.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pomazpla/public_html/public/api/index.php on line 21
+[15-Jul-2024 14:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "API" not found in /home/pomazpla/public_html/public/api/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/pomazpla/public_html/public/api/index.php on line 25
+[15-Jul-2024 14:26:09 UTC] PHP Warning:  include_once(api.php): Failed to open stream: No such file or directory in /home/pomazpla/public_html/public/api/index.php on line 21
+[15-Jul-2024 14:26:09 UTC] PHP Warning:  include_once(): Failed opening 'api.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pomazpla/public_html/public/api/index.php on line 21
+[15-Jul-2024 14:26:09 UTC] PHP Fatal error:  Uncaught Error: Class "API" not found in /home/pomazpla/public_html/public/api/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/pomazpla/public_html/public/api/index.php on line 25
+[15-Jul-2024 14:27:21 UTC] PHP Warning:  include_once(api.php): Failed to open stream: No such file or directory in /home/pomazpla/public_html/public/api/index.php on line 22
+[15-Jul-2024 14:27:21 UTC] PHP Warning:  include_once(): Failed opening 'api.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pomazpla/public_html/public/api/index.php on line 22
+[15-Jul-2024 14:27:21 UTC] PHP Fatal error:  Uncaught Error: Class "API" not found in /home/pomazpla/public_html/public/api/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/pomazpla/public_html/public/api/index.php on line 26
+[15-Jul-2024 14:27:22 UTC] PHP Warning:  include_once(api.php): Failed to open stream: No such file or directory in /home/pomazpla/public_html/public/api/index.php on line 22
+[15-Jul-2024 14:27:22 UTC] PHP Warning:  include_once(): Failed opening 'api.php' for inclusion (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/pomazpla/public_html/public/api/index.php on line 22
+[15-Jul-2024 14:27:22 UTC] PHP Fatal error:  Uncaught Error: Class "API" not found in /home/pomazpla/public_html/public/api/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/pomazpla/public_html/public/api/index.php on line 26
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:28:21 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:28:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 72
+[15-Jul-2024 14:29:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 72
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 95
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 115
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 116
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 117
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 72
+[15-Jul-2024 14:29:43 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/api.php on line 72
+[15-Jul-2024 14:58:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 27
+[15-Jul-2024 14:58:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 27
+[15-Jul-2024 14:58:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 28
+[15-Jul-2024 14:58:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 28
+[15-Jul-2024 14:58:39 UTC] PHP Warning:  Undefined array key 0 in /home/pomazpla/public_html/public/api/userLogin.php on line 36
+[15-Jul-2024 14:58:39 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 36
+[15-Jul-2024 14:59:02 UTC] PHP Warning:  Undefined array key 0 in /home/pomazpla/public_html/public/api/userLogin.php on line 36
+[15-Jul-2024 14:59:02 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 36
+[15-Jul-2024 14:59:16 UTC] PHP Warning:  Undefined array key 0 in /home/pomazpla/public_html/public/api/userLogin.php on line 36
+[15-Jul-2024 14:59:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 36
+[19-Jul-2024 11:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 12
+[19-Jul-2024 11:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 12
+[19-Jul-2024 11:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 13
+[19-Jul-2024 11:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 13
+[19-Jul-2024 11:26:11 UTC] PHP Warning:  Undefined array key 0 in /home/pomazpla/public_html/public/api/userLogin.php on line 21
+[19-Jul-2024 11:26:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 21
+[19-Jul-2024 15:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 12
+[19-Jul-2024 15:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 12
+[19-Jul-2024 15:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 13
+[19-Jul-2024 15:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 13
+[19-Jul-2024 15:08:16 UTC] PHP Warning:  Undefined array key 0 in /home/pomazpla/public_html/public/api/userLogin.php on line 21
+[19-Jul-2024 15:08:16 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 21
+[19-Jul-2024 15:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 12
+[19-Jul-2024 15:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 12
+[19-Jul-2024 15:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 13
+[19-Jul-2024 15:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 13
+[19-Jul-2024 15:41:41 UTC] PHP Warning:  Undefined array key 0 in /home/pomazpla/public_html/public/api/userLogin.php on line 21
+[19-Jul-2024 15:41:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/pomazpla/public_html/public/api/userLogin.php on line 21
